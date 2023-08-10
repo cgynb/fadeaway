@@ -22,3 +22,8 @@ def hello(ctx: ConText):
 if __name__ == "__main__":
     app.run()
 ```
+
+## Link
+
+- document:  [https://github.com/cgynb/fadeaway/doc](doc)
+- example: [https://github.com/cgynb/fadeaway/example](example)
