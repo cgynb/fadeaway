@@ -1,7 +1,12 @@
 # FadeAway
 
 ## install
+
 ```
 pip install fadeaway
 ```
-[kk](kl)
+
+# Link
+
+document:  [https://github.com/cgynb/fadeaway/doc](doc)
+example: [https://github.com/cgynb/fadeaway/example](example)
