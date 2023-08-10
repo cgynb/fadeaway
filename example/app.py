@@ -10,6 +10,15 @@ app.use(AuthMiddleWare())
 app.register_blueprint(todo_bp)
 
 
+@app.error_handler(404)
+def handle_404(e):
+    return jsonify({
+        "code": 404,
+        "msg": "not found",
+        "data": None
+    })
+
+
 @app.route("/user/register", methods=("POST", ))
 def register(ctx):
     user = UserModel(name=ctx.request.form.get("name"), password=ctx.request.form.get("password"))

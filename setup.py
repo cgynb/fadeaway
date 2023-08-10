@@ -11,7 +11,7 @@ setuptools.setup(
     description="fadeaway is a lightweight WSGI web application framework which depends on the Werkzeug WSGI toolkit",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cgynb/RainAPI",
+    url="https://github.com/cgynb/fadeaway",
     packages=setuptools.find_packages(),
     install_requires=['werkzeug>=2.3.6'],
     classifiers=[
