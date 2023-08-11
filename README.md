@@ -25,5 +25,5 @@ if __name__ == "__main__":
 
 ## Link
 
-- document:  [https://github.com/cgynb/fadeaway/doc/start.md](doc)
-- example: [https://github.com/cgynb/fadeaway/example/app.py](example)
+- document:  [docs](doc/start.md)
+- example: [example](example/app.py)
