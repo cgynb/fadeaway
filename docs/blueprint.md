@@ -19,4 +19,4 @@ def user(ctx):
     return "user"
 ```
 
-[finish](https://github.com/cgynb/fadeaway/doc)
+[finish](https://github.com/cgynb/fadeaway)
