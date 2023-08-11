@@ -25,5 +25,5 @@ if __name__ == "__main__":
 
 ## Link
 
-- document:  [docs](doc/start.md)
+- document:  [docs](docs/start.md)
 - example: [example](example/app.py)
