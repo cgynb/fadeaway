@@ -2,7 +2,7 @@
 
 You can set secret key, database information by using object **fadeaway.FadeAway.config**
 
-## set
+### set
 
 normally set
 
@@ -30,6 +30,13 @@ config.json
 """
 import json
 config.from_file("config.json", json.loads)
+```
+
+### get
+
+```python
+config.key
+config["key"]
 ```
 
 go next: [response](response.md)

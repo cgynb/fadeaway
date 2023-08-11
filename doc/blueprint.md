@@ -1,5 +1,0 @@
-# blueprint
-
-
-
-finish
