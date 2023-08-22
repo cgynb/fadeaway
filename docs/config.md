@@ -8,7 +8,7 @@ normally set
 
 ```python
 config.key = value
-config[key] = value
+config["key"] = value
 ```
 
 from object
